@@ -1,5 +1,5 @@
 <h1 align='center'>BOT NAMES IBGE</h1>
-<p>Bot criado para pesquisa de informações sobre nomes de acordo com o IBGE</p>
+<p>Bot criado para pesquisa de informações sobre nomes de acordo com o IBGE.</p>
 <p><b>Plataforma:</b> <i>Telegram</i></p>
 
 <hr>
