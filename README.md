@@ -7,12 +7,12 @@
 <h2 align='center'>Observações</h2>
   <p>
     <ul>
-      <li><code>user.txt</code> : coloque aqui o username dos usuários permitidos para acessar o bot;</li>
+      <li><code>user.txt</code> : usernames dos usuários permitidos para acessar o bot;</li>
       <li><code>logs.log</code> : registro de logs das pesquisas por username;</li>
-      <li><code>grupos.csv</code> : lista de todos os nomes de acordo com o IBGE (femininos e masculinos);</li>
-      <li><code>femininosDicionario.py</code> : cria arquivo .json da lista de nomes femininos;</li>
-      <li><code>nomesFemininos.json</code> :  arquivo .json da lista de nomes femininos;</li>
-      <li><code>femininosBot.py</code> : códigos do bot;</li>
+      <li><code>grupos.csv</code> : lista dos nomes de acordo com o IBGE;</li>
+      <li><code>dicionario.py</code> : cria arquivo .json da lista de nomes;</li>
+      <li><code>nomes.json</code> :  arquivo .json da lista de nomes;</li>
+      <li><code>bot.py</code> : códigos do bot;</li>
     </ul>
   </p>
   
