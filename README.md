@@ -18,4 +18,4 @@
   
   <hr>
   
-  <h5 align='center'>Made by: <a href="https://github.com/fslaurafs">@fslaurafs</a> and <a href="https://github.com/RenanAlmeidaSilva" target="_blank">@RenanAlmeidaSilva</a></h5>
+  <h5 align='center'>Made by: <a href="https://github.com/fslaurafs">@fslaurafs</a> and <a href="https://github.com/RenanAlmeidaSilva">@RenanAlmeidaSilva</a></h5>
