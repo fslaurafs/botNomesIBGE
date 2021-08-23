@@ -13,7 +13,7 @@
       <li><code>dicionario.py</code> : cria arquivo .json da lista de nomes;</li>
       <li><code>nomes.json</code> :  arquivo .json da lista de nomes;</li>
       <li><code>bot.py</code> : códigos do bot;</li>
-      <li><strong>Dados retirados de: </strong><a href="https://brasil.io/dataset/genero-nomes/grupos/">Brasil.io</a></li>
+      <li>Dados retirados de: <a href="https://brasil.io/dataset/genero-nomes/grupos/">Brasil.io</a></li>
     </ul>
   </p>
   
